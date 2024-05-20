@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat May 11 22:09:50 2024
+# Process ID: 25108
+# Current directory: C:/Users/mohamedabdelfatah572/Downloads/mo/clock_minute_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16044 C:\Users\mohamedabdelfatah572\Downloads\mo\clock_minute_project\clock_minute_project.xpr
+# Log file: C:/Users/mohamedabdelfatah572/Downloads/mo/clock_minute_project/vivado.log
+# Journal file: C:/Users/mohamedabdelfatah572/Downloads/mo/clock_minute_project\vivado.jou
+# Running On: CSE-P07-2165-06, OS: Windows, CPU Frequency: 3696 MHz, CPU Physical cores: 8, Host memory: 34016 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/mohamedabdelfatah572/Downloads/mo/clock_minute_project/clock_minute_project.xpr
+update_compile_order -fileset sources_1
